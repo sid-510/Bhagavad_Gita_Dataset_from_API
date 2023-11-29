@@ -6,4 +6,4 @@ Getting the data in a structured and desired format is one of the first and most
 
 After making request to the API and getting response in a ``.json`` format made transformations using ``pandas`` such as dropping unnecessary columns and renaming columns for better readability. You will find the code here -> bhagavad_gita_dataset.ipynb
 
-And then dumped the dataframe in a ``csv`` file. The final dataframe looked something like this -> bhagavad_gita_eng.csv
+And then dumped the dataframe in a ``.csv`` file. The final dataframe looked something like this -> bhagavad_gita_eng.csv
